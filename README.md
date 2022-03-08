@@ -5,4 +5,3 @@ Ultraviolet, now able to deploy to Heroku.
 
 # Important
 This fork is only meant for Heroku deployment.
-Quite inefficient, since it clones the entire ultraviolet repository at startup.
