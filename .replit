@@ -1,2 +1,4 @@
 language = "nodejs"
 run = "bash main.sh"
+# This opens replit to the README by default instead of index.js. Change this to whatever file you want.
+entrypoint = "README.md"
